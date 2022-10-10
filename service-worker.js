@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.bea8156b191f099e55aed57eb8a013bf.js"
+  "/precache-manifest.512b0b208aeb00fffc79b7999766546c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "shilin"});
